@@ -1,0 +1,36 @@
+{
+  "name": "alexa-home-skill-errors",
+  "version": "0.0.1",
+  "description": "A simple Alexa Home Skill error handler",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "alexa",
+    "home",
+    "skill",
+    "error"
+  ],
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "author": "Harrison Jones (harrison@hhj.me)",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "uuid": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harrisonhjones/alexa-home-skill-errors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrisonhjones/alexa-home-skill-errors/issues"
+  },
+  "homepage": "https://github.com/harrisonhjones/alexa-home-skill-errors#readme"
+}
